@@ -1,0 +1,9 @@
+C:\Users\matth\OneDrive\Documents\COSC 3P71\Chess 3.0\bin\debug\Chess.exe
+C:\Users\matth\OneDrive\Documents\COSC 3P71\Chess 3.0\bin\debug\Chess.pdb
+C:\Users\matth\OneDrive\Documents\COSC 3P71\Chess 3.0\project\Chess\obj\x86\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\matth\OneDrive\Documents\COSC 3P71\Chess 3.0\project\Chess\obj\x86\Debug\Chess.MainForm.resources
+C:\Users\matth\OneDrive\Documents\COSC 3P71\Chess 3.0\project\Chess\obj\x86\Debug\Chess.Properties.Resources.resources
+C:\Users\matth\OneDrive\Documents\COSC 3P71\Chess 3.0\project\Chess\obj\x86\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\matth\OneDrive\Documents\COSC 3P71\Chess 3.0\project\Chess\obj\x86\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Documents\COSC 3P71\Chess 3.0\project\Chess\obj\x86\Debug\Chess.exe
+C:\Users\matth\OneDrive\Documents\COSC 3P71\Chess 3.0\project\Chess\obj\x86\Debug\Chess.pdb
